@@ -1,3 +1,3 @@
 # bestrepoever
 
-mychanges  my conflict 2 for tracking
+mychanges  my 1st conflict my conflict 2 for tracking
